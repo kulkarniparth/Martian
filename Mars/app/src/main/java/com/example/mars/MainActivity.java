@@ -37,7 +37,7 @@ public class MainActivity<x> extends AppCompatActivity {
 
     public static final String part="/photos?sol=";
     public static final String added="&api_key=";
-    public static final String api_key="3RGbI9fBW0yZM3xvD6dbpvoGz14UbErRmoZJfigJ";
+    public static final String api_key="";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
